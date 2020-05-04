@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.iakovlev:timeshape:2018d.6">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/iakovlev/timeshape/2018d.6/timeshape-2018d.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/iakovlev/timeshape/2018d.6/timeshape-2018d.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/iakovlev/timeshape/2018d.6/timeshape-2018d.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
